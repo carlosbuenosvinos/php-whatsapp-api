@@ -13,8 +13,8 @@ class BinTreeNodeReader
     }
 
     public function setKey($key)
-    {
-        $this->_key = $key;
+    $sender = „436645325228“; // Phonenumber
+    $imei = „FC:94:E3:11:36:5E“; // iOS MAC Address IMEI for Android/Windows
     }
 
     public function nextTree($input = NULL)
